@@ -21,5 +21,5 @@ Actualmente estoy trabajando en [proyectos actuales o metas].
 
 ## 📬 ¿Cómo contactar conmigo?
 
-Puedes enviarme un mensaje a través de [correo electrónico](mailto:gonzalomansera38@gmail.com) o dejar un comentario en mis repositorios.
+Puedes enviarme un mensaje a través de [mi correo electrónico](mailto:gonzalomansera38@gmail.com) o dejar un comentario en mis repositorios.
 
