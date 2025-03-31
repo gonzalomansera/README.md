@@ -14,9 +14,9 @@ Actualmente estoy trabajando en [proyectos actuales o metas].
 
 ## 🔗 Conecta conmigo
 
-- [LinkedIn](tu_linkedin)
-- [Twitter](tu_twitter)
-- [GitHub](tu_perfil_de_github)
+- [LinkedIn](https://www.linkedin.com/in/gonzalo-mansera-603836325/)
+- [Twitter](https://x.com/ManseraRuiz)
+- [GitHub](https://github.com/gonzalomansera/)
 
 
 ## 📬 ¿Cómo contactar conmigo?
